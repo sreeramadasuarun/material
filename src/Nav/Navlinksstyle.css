@@ -210,7 +210,6 @@ li a.active {
     animation: myLineargradient 6s infinite;
     box-shadow: 2px 3px 20px #ff1700;
     opacity: 0;
-
 }
 
 
@@ -236,6 +235,7 @@ li a.active {
     transition: 1s;
     margin-top: 1px;
     opacity: 1;
+
 
 }
 
@@ -283,7 +283,6 @@ li a.active {
     animation: myLineargradient 6s infinite;
     box-shadow: 2px 3px 20px #ff1700;
     opacity: 0;
-
 }
 
 
@@ -313,7 +312,7 @@ li a.active {
 }
 
 
-.drop1,
+/* .drop1,
 .drop2,
 .drop3 {
     cursor: pointer;
@@ -322,4 +321,4 @@ li a.active {
     margin-top: -5px;
     font-size: 12px;
 
-}
+} */
